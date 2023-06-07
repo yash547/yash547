@@ -26,7 +26,7 @@ Feel free to explore my GitHub repositories, where I share my code, projects, an
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me through the following channels:
 
 - Email: [yashmishra547@gmail.com](mailto:yashmishra547@gmail.com)
-- LinkedIn: [Yash's LinkedIn Profile](https://www.linkedin.com/in/yash-mishra-954540152/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yashmis41284459)
+- LinkedIn: [Yash Mishra LinkedIn Profile](https://www.linkedin.com/in/yash-mishra-954540152/)
+- Twitter: [Yash Mishra Twitter profile](https://twitter.com/yashmis41284459)
 
 Thank you for visiting my GitHub profile! 😄🚀
