@@ -17,10 +17,6 @@ Here are my areas of technical expertise:
 - GitHub
 - Firebase (Realtime database, Firestore database, Authentication services)
 
-## GitHub Contributions
-
-Feel free to explore my GitHub repositories, where I share my code, projects, and contributions to the developer community. You can find my repositories and contributions [here](https://github.com/yash547).
-
 ## Contact Me
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can contact me through the following channels:
