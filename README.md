@@ -1,7 +1,6 @@
 # Yash's GitHub Profile
 
-👋 Welcome to my GitHub profile! I am a Certified Oracle Cloud Foundations Associate. Technical trainer  2 year 9month  of Experience. I also have 1.7+ years of professional experience as a software development Associate Consultant at Global Education Limited.
-
+👋 Welcome to my GitHub profile! I am a Experienced Software Engineer (1 year 7 months) and former Technical Trainer (2 years 9 months).
 ## Technical Specialties
 
 Here are my areas of technical expertise:
