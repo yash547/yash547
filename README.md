@@ -1,6 +1,6 @@
 # Yash's GitHub Profile
 
-👋 Welcome to my GitHub profile! I am a Experienced Software Engineer (1 year 10 months) and former Technical Trainer (2 years 9 months).
+👋 Welcome to my GitHub profile! I am a Experienced Software Engineer (1 year 11 months) and former Technical Trainer (2 years 9 months).
 ## Technical Specialties
 
 Here are my areas of technical expertise:
