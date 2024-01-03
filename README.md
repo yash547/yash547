@@ -7,7 +7,6 @@ Here are my areas of technical expertise:
 
 - Spring MVC
 - Spring Boot
-- React js
 - Node js
 - Microservices
 - API Integration & Rest API Development
