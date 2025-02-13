@@ -2,7 +2,7 @@
 
 🚀 **Java Full Stack Developer | Microservices | Spring Boot | WebRTC **  
 
-I am a **results-driven software engineer** with **3+ years of experience** in designing and developing **secure, scalable, and high-performance applications**. Passionate about **backend architecture, API development, and real-time communication systems**, I specialize in **Java, Spring Boot, Microservices, and SQL Databases**.
+I am a **results-driven software engineer** with **3+ years of experience** in designing and developing **secure, scalable, and high-performance applications**. Passionate about **backend architecture, API development, and real-time communication systems**, I specialize in **Java, Spring Boot, Microservices, and Android app**.
 
 ---
 
@@ -44,11 +44,11 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
 - Developed **secure VoIP solutions** for real-time communication.
 - Integrated **external APIs and payment gateways** for financial transactions.
 
-### 📌 **GeoSpace+ - Node.js, JavaScript (Feb 2023 – Jun 2023)**
+### 🌍 **GeoSpace+ - Node.js, JavaScript (Feb 2023 – Jun 2023)**
 - Developed **RESTful APIs** for **geospatial data management** using **Node.js and Sequelize**.
 - Ensured **secure and scalable database storage** using **PostgreSQL**.
 
-### 🌍 **DMIHER - Java, Spring Boot, Spring MVC, REST API (Feb 2022 – Jan 2023)**
+### 📌 **DMIHER - Java, Spring Boot, Spring MVC, REST API (Feb 2022 – Jan 2023)**
 - Designed and developed **REST APIs** for a **cross-platform application** using **Spring Boot**.
 - Integrated **push notification services** and built an **attendance tracking system with 99% accuracy**.
 
