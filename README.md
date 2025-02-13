@@ -31,21 +31,23 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
 
 ## 🔹 **Projects & Achievements**
 
-### 🔥 **PwC ERP Project - Project Change Module**
-- Led the development of a structured **workflow system** improving process efficiency.
-- Integrated **secure APIs, microservices, and SQL Server optimizations**.
+### 🔥 **OPS(360) - Spring Boot, Spring MVC, JSP, Servlet (April 2024 – Present)**
+- Migrated databases from **MySQL to SQL Server**, improving system reliability.
+- Developed the **Project Change module**, facilitating structured workflow management.
+- Resolved **security vulnerabilities** and enhanced **performance optimization**.
 
-### 📍 **Axpertz (Business Management & Secure VoIP Android App)**
-- Built an **Android app** with **WebRTC-based VoIP**, KYC verification, and secure chat.
-- Developed **26+ modules** including **Wallet, Secure Payments & Business Tools**.
+### 📍 **Axpertz (Tax Partner) & Axpert Business – Kotlin (July 2023 – Feb 2024)**
+- Designed and built **feature-rich Android applications** with **26+ modules**, including **dashboard, chat, wallet, and KYC verification**.
+- Developed **secure VoIP solutions** for real-time communication.
+- Integrated **external APIs and payment gateways** for financial transactions.
 
-### 📌 **DMIHER Cross-Platform App**
-- Designed **backend API infrastructure** with **Spring Boot & SQL Server**.
-- Implemented **real-time push notifications** & **99% accurate attendance tracking system**.
+### 📌 **GeoSpace+ - Node.js, JavaScript (Feb 2023 – Jun 2023)**
+- Developed **RESTful APIs** for **geospatial data management** using **Node.js and Sequelize**.
+- Ensured **secure and scalable database storage** using **PostgreSQL**.
 
-### 🌍 **GeoSpace+ (Geospatial Data Management System)**
-- Built a **Node.js & PostgreSQL-based data management system**.
-- Designed REST APIs for **handling large-scale geospatial data efficiently**.
+### 🌍 **DMIHER - Java, Spring Boot, Spring MVC, REST API (Feb 2022 – Jan 2023)**
+- Designed and developed **REST APIs** for a **cross-platform application** using **Spring Boot**.
+- Integrated **push notification services** and built an **attendance tracking system with 99% accuracy**.
 
 ---
 
