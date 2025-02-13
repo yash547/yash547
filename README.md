@@ -2,7 +2,7 @@
 
 🚀 **Java Full Stack Developer | Microservices | Spring Boot | WebRTC **  
 
-I am a **results-driven software engineer** with **3+ years of experience** in designing and developing **secure, scalable, and high-performance applications**. Passionate about **backend architecture, API development, and real-time communication systems**, I specialize in **Java, Spring Boot, Microservices, and Android app**.
+I am a **results-driven software engineer** with **3+ years of experience** in designing and developing **secure, scalable, and high-performance applications**.
 
 ---
 
