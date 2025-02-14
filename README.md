@@ -53,13 +53,7 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
 - Integrated **push notification services** and built an **attendance tracking system with 99% accuracy**.
 
 ---
-
-## 🔹 **GitHub Stats**
-
-![Yash Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash547&show_icons=true&theme=tokyonight)
-
----
-
+ 
 ## 📫 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YashMishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash547/)  
