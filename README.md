@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yash Mishra
 
-🚀 **Java Full Stack Developer | Microservices | Spring Boot | WebRTC **  
+🚀 **Java Full Stack Developer | Spring Boot **  
 
 I am a **results-driven software engineer** with **3+ years of experience** in designing and developing **secure, scalable, and high-performance applications**.
 
@@ -8,7 +8,7 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
 
 ## 🔹 **About Me**
 
-✔ **Java Full Stack Developer** with expertise in **Spring Boot, Microservices & REST APIs**  
+✔ **Java Full Stack Developer** with expertise in **Spring Boot, REST APIs**  
 ✔ Experience in **WebRTC-based VoIP, Secure Payment Gateways, and Cloud Deployments**  
 ✔ Strong background in **SQL Server, PostgreSQL, MySQL, Hibernate, and JPA**  
 ✔ Knowledge of **CI/CD Pipelines, Agile (Scrum/TDD), and Performance Optimization**  
