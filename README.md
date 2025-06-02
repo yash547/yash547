@@ -19,16 +19,16 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
 ## 🔹 **Tech Stack & Skills**
 
 **Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+! Java ! Spring Boot ! Hibernate ! Node.js
 
 **Databases:**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+! SQL Server ! PostgreSQL ! MySQL
 
 **Mobile & Android Development:**  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+! Kotlin ! Android ! Firebase
 
 **Other Technologies:**  
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+! WebRTC ! GitHub
 
 ---
 
@@ -56,9 +56,9 @@ I am a **results-driven software engineer** with **3+ years of experience** in d
  
 ## 📫 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YashMishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash547/)  
-[![GitHub](https://img.shields.io/badge/GitHub-yash547-lightgrey?style=for-the-badge&logo=github)](https://github.com/yash547)  
-[![Email](https://img.shields.io/badge/Email-yashmishra547@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmishra547@gmail.com)
+! LinkedIn: https://linkedin.com/in/yash547
+! GitHub : https://github.com/yash547
+! Email : yashmishra547@gmail.com
 
 ---
 
